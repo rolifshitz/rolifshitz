@@ -30,6 +30,7 @@ I'm Romi, welcome to my github page!
 
 ## Education
 I'm in my fifth year of Honours Bachelor of Arts & Sciences at McMaster University, 
+
 tri-minoring in Mathematics, Physics, and Innovation. 
 
 ## Contact
