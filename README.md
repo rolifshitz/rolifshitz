@@ -2,6 +2,7 @@
 
 
 <a href="https://img.shields.io/badge/-Python-3776AB?logo=python=flat"></a>
+![python](https://img.shields.io/badge/-Python-3776AB?logo=python=flat)
 
 <!--
 **rolifshitz/rolifshitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
