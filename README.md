@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-
-<a href="https://img.shields.io/badge/-Python-3776AB?logo=python=flat"></a>
-![python](https://img.shields.io/badge/-Python-3776AB?logo=python=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
+![Java](https://img.shields.io/badge/-Java-007396)
+![Markdown](https://img.shields.io/badge/-Markdown-000000)
+![R](https://img.shields.io/badge/-R-276DC3)
+![LaTex](https://img.shields.io/badge/-LaTex-008080)
 
 <!--
 **rolifshitz/rolifshitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
