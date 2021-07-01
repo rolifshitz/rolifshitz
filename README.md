@@ -10,13 +10,13 @@ I'm Romi, welcome to my github page!
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?logo=latex&logoColor=white)
 
 ## Libraries and Tools
-![Numpy](https://img.shields.io/badge/-Numpy-013243logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458logo=pandas&logoColor=white)
-![Sympy](https://img.shields.io/badge/-Sympy-3B5526logo=sympy&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2Clogo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000logo=keras&logoColor=white)
-![Git](https://img.shields.io/badge/-Keras-D00000logo=git&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Sympy](https://img.shields.io/badge/-Sympy-3B5526?logo=sympy&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Git](https://img.shields.io/badge/-Keras-D00000?logo=git&logoColor=white)
 
 <!--
 **rolifshitz/rolifshitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
