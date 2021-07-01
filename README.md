@@ -24,6 +24,7 @@ I'm Romi, welcome to my github page!
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-4285F4?logo=googlecloud&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white)
 
 
 
