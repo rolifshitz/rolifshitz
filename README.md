@@ -28,6 +28,9 @@ I'm Romi, welcome to my github page!
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 
+## Contact
+Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/romilifshitz/)!
+
 
 
 <!--
