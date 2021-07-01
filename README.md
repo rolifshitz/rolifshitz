@@ -13,7 +13,7 @@ I'm Romi, welcome to my github page!
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Sympy](https://img.shields.io/badge/-Sympy-3B5526?logo=sympy&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 
