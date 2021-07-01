@@ -20,13 +20,15 @@ I'm Romi, welcome to my github page!
 ## Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoftword&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 ![GoogleDrive](https://img.shields.io/badge/-GoogleDrive-F9AB00?logo=googledrive&logoColor=white)
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
+
 
 ## Contact
 Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/romilifshitz/)!
