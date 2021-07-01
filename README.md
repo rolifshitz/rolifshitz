@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Romi, welcome to my github page!
+I'm Romi, welcome to my github page! I'm in my fifth year of a Bachelor of Arts and Sciences at McMaster University, tri-minoring in Mathematics, Physics, and Innovation. 
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
