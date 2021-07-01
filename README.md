@@ -3,7 +3,6 @@ I'm Romi, welcome to my github page!
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
@@ -17,6 +16,7 @@ I'm Romi, welcome to my github page!
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 
 ## Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
