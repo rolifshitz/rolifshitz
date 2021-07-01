@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Romi, welcome to my github page! I'm in my fifth year of a Bachelor of Arts and Sciences at McMaster University, tri-minoring in Mathematics, Physics, and Innovation. 
+I'm Romi, welcome to my github page!
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -28,6 +28,8 @@ I'm Romi, welcome to my github page! I'm in my fifth year of a Bachelor of Arts 
 ![GoogleDrive](https://img.shields.io/badge/-GoogleDrive-4285F4?logo=googledrive&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
 
+## Education
+I'm in my fifth year of Honours Bachelor of Arts and Sciences at McMaster University, tri-minoring in Mathematics, Physics, and Innovation. 
 
 ## Contact
 Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/romilifshitz/)!
