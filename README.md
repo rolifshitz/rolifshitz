@@ -2,7 +2,7 @@
 I'm Romi, welcome to my github page!
 
 ## Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java=flat)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown=flat)
