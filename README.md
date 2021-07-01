@@ -9,13 +9,15 @@ I'm Romi, welcome to my github page!
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?logo=latex&logoColor=white)
 
-## Libraries and Tools
+## Libraries
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Sympy](https://img.shields.io/badge/-Sympy-3B5526?logo=sympy&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+
+## Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
