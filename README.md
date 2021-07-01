@@ -1,12 +1,13 @@
 ### Hi there 👋
+I'm Romi, welcome to my github page!
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
-![Java](https://img.shields.io/badge/-Java-007396)
-![Markdown](https://img.shields.io/badge/-Markdown-000000)
-![R](https://img.shields.io/badge/-R-276DC3)
-![LaTex](https://img.shields.io/badge/-LaTex-008080)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java=flat)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r=flat)
+![LaTex](https://img.shields.io/badge/-LaTex-008080?logo=latex=flat)
 
 ## Libraries and Tools
 ![Numpy](https://img.shields.io/badge/-Numpy-013243)
@@ -14,7 +15,8 @@
 ![Sympy](https://img.shields.io/badge/-Sympy-3B5526)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00)
-![Keras](https://img.shields.io/badge/-Keras-D00000 )
+![Keras](https://img.shields.io/badge/-Keras-D00000)
+![Git](https://img.shields.io/badge/-Keras-D00000)
 
 <!--
 **rolifshitz/rolifshitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
