@@ -18,6 +18,11 @@ I'm Romi, welcome to my github page!
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoftword&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+
 
 <!--
 **rolifshitz/rolifshitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
