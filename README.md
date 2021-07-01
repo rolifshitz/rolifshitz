@@ -25,6 +25,7 @@ I'm Romi, welcome to my github page!
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-4285F4?logo=googlecloud&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 
 
 
