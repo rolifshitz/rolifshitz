@@ -2,12 +2,12 @@
 I'm Romi, welcome to my github page!
 
 ## Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java=flat)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown=flat)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r=flat)
-![LaTex](https://img.shields.io/badge/-LaTex-008080?logo=latex=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![LaTex](https://img.shields.io/badge/-LaTex-008080?logo=latex&logoColor=white)
 
 ## Libraries and Tools
 ![Numpy](https://img.shields.io/badge/-Numpy-013243)
