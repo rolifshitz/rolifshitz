@@ -26,7 +26,7 @@ I'm Romi, welcome to my github page!
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoftword&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-![GoogleDrive](https://img.shields.io/badge/-GoogleDrive-F9AB00?logo=googledrive&logoColor=white)
+![GoogleDrive](https://img.shields.io/badge/-GoogleDrive-4285F4?logo=googledrive&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
 
 
