@@ -28,11 +28,8 @@ I'm Romi, welcome to my github page!
 ![GoogleDrive](https://img.shields.io/badge/-GoogleDrive-4285F4?logo=googledrive&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
 
-## Education
-I'm in my final year of undergrad at McMaster University, pursuing an Honours Bachelor of Arts & Sciences and tri-minoring in Mathematics, Physics, and Innovation. 
-
-## Contact
-Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/romilifshitz/)!
+## Education and Contact
+I'm in my final year of undergrad at McMaster University, pursuing an Honours Bachelor of Arts & Sciences and tri-minoring in Mathematics, Physics, and Innovation. <br> Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/romilifshitz/)!
 
 
 
