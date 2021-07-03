@@ -18,7 +18,8 @@ I'm Romi, welcome to my github page!
 ## Tools
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?logo=intellijidea&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
@@ -36,6 +37,11 @@ Feel free to shoot me a message on [LinkedIn](https://www.linkedin.com/in/romili
 <!--
 ![Sympy](https://img.shields.io/badge/-Sympy-3B5526?logo=sympy&logoColor=white)
 I'm in my final year of undergrad at McMaster University, pursuing an Honours Bachelor of Arts & Sciences and tri-minoring in Mathematics, Physics, and Innovation.
+
+Resources for creating this page:
+https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
+https://medium.com/analytics-vidhya/7-tips-to-make-your-github-profile-better-3913971c357d
+
 **rolifshitz/rolifshitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
