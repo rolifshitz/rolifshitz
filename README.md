@@ -40,6 +40,7 @@ I'm in my final year of undergrad at McMaster University, pursuing an Honours Ba
 
 Resources for creating this page:
 https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
+https://simpleicons.org/
 https://medium.com/analytics-vidhya/7-tips-to-make-your-github-profile-better-3913971c357d
 
 **rolifshitz/rolifshitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
