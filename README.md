@@ -18,6 +18,7 @@ I'm Romi, welcome to my github page!
 ## Tools
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?logo=intellijidea&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?logo=googlecolab&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
